@@ -8,7 +8,7 @@ st.set_page_config(page_title="کارت ویزیت", layout="centered")
 data = {
     "logoText": "GH",
     "fullName": "گلاره هوشمندیان",
-    "jobTitle": " و دورهٔ تربیت مدرس در تمامی سطوح و سنینIELTS مدرس زبان اینگلیسی",
+    "jobTitle": "مدرس زبان اینگلیسی وایلتس و دوره ی تربیت مدرس و تمامی سطوح و تمامی سنین",
     "phone": "+989125768056",
     "email": "Gelarehhm92@gmail.com",
 }
